@@ -1,0 +1,23 @@
+body{ border:1px black solid;
+
+    }
+  div{ float: left;}
+
+
+.one { background-color: #653F70;
+       width: 200px;
+       height:100px;
+   }
+
+ .two { background-color: #3C3C6D; 
+        width: 200px;
+        height:100px;}
+
+ .tre { background-color: #16172B;
+        width: 200px;
+        height:100px;} 
+
+       
+
+
+             
